@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "message": "Mensaje de prueba",
+      "author": "Juan José Rodríguez",
+      "ts": "1599868276352"
+    },
+    {
+      "message": "hola",
+      "author": "Daniel",
+      "ts": "1600404884792"
+    }
+  ]
+}
